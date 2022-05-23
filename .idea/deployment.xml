@@ -5,7 +5,7 @@
       <paths name="html2">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$/test-app/public" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$/next-minmax" web="/" />
           </mappings>
         </serverdata>
       </paths>
