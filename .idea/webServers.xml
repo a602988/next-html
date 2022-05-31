@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="eea115af-6577-45f3-8588-0b749415cdcf" name="html2" url="http://html.jean2.minmax.website">
-        <fileTransfer rootFolder="/public_html" host="html.jean2.minmax.website" port="21">
+        <fileTransfer rootFolder="/minmax-web" host="html.jean2.minmax.website" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
